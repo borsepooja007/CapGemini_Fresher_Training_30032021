@@ -1,0 +1,2 @@
+# CapGemini_Fresher_Training_30032021
+Training Assignments
